@@ -1,4 +1,4 @@
-# Copyright (C) 2024, Pano3D [https://github.com/Pano3D/Pano3D]
+# Copyright (C) 2024, WuHan University.
 # All rights reserved.
 #
 # This program is free software (firmware): you can redistribute it and/or
